@@ -1,0 +1,12 @@
+/home/seiscordas/git/java/my-java-sample/primefaces-springboot/src/main/java/br/com/kl/controller/SeguradoraComissaoController.java
+/home/seiscordas/git/java/my-java-sample/primefaces-springboot/src/main/java/br/com/kl/repositorio/ProdutoRepository.java
+/home/seiscordas/git/java/my-java-sample/primefaces-springboot/src/main/java/br/com/kl/controller/ProdutoController.java
+/home/seiscordas/git/java/my-java-sample/primefaces-springboot/src/main/java/br/com/kl/model/Produto.java
+/home/seiscordas/git/java/my-java-sample/primefaces-springboot/src/main/java/br/com/kl/model/Seguradora.java
+/home/seiscordas/git/java/my-java-sample/primefaces-springboot/src/main/java/br/com/kl/PrimefacesSpringbootApplication.java
+/home/seiscordas/git/java/my-java-sample/primefaces-springboot/src/main/java/br/com/kl/converters/ProdutoConverter.java
+/home/seiscordas/git/java/my-java-sample/primefaces-springboot/src/main/java/br/com/kl/controller/SeguradoraController.java
+/home/seiscordas/git/java/my-java-sample/primefaces-springboot/src/main/java/br/com/kl/beans/AuxiliarBean.java
+/home/seiscordas/git/java/my-java-sample/primefaces-springboot/src/main/java/br/com/kl/model/SeguradoraComissao.java
+/home/seiscordas/git/java/my-java-sample/primefaces-springboot/src/main/java/br/com/kl/repositorio/SeguradoraRepository.java
+/home/seiscordas/git/java/my-java-sample/primefaces-springboot/src/main/java/br/com/kl/repositorio/SeguradoraComissaoRepository.java

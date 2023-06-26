@@ -1,0 +1,12 @@
+br/com/kl/model/SeguradoraComissao.class
+br/com/kl/converters/ProdutoConverter.class
+br/com/kl/PrimefacesSpringbootApplication.class
+br/com/kl/controller/SeguradoraComissaoController.class
+br/com/kl/repositorio/ProdutoRepository.class
+br/com/kl/beans/AuxiliarBean.class
+br/com/kl/repositorio/SeguradoraComissaoRepository.class
+br/com/kl/model/Produto.class
+br/com/kl/repositorio/SeguradoraRepository.class
+br/com/kl/controller/ProdutoController.class
+br/com/kl/model/Seguradora.class
+br/com/kl/controller/SeguradoraController.class
