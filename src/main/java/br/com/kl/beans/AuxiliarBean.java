@@ -30,7 +30,7 @@ public class AuxiliarBean implements Serializable {
 
     @Getter
     @Setter
-    private Seguradora seguradoraSelecionada;
+    private Long seguradoraSelecionada;
 
     @Getter
     private List<Produto> produtos;
@@ -60,5 +60,12 @@ public class AuxiliarBean implements Serializable {
 
     public List<Seguradora> completeSeguradora(Long id) {
         return seguradoraRepository.findByProdutoId(produtoSelecionado);
+    }
+
+    public void teste(Long id) {
+        System.out.println("id: " + id);
+        if(seguradoraSelecionada != null){
+        }
+        System.out.println("seguradoraSelecionada: " + seguradoraSelecionada);
     }
 }

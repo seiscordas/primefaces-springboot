@@ -52,6 +52,13 @@
 
                         </p:selectOneMenu>
 
+                        <h:commandLink actionListener="#{auxiliarBean.teste(23)}">
+                            <p:graphicImage value="../resources/images/refresh.png" />
+                            <f:ajax execute="@this" render="@form" />
+                        </h:commandLink>
+
+
+
                     </h:panelGrid>
                 </div>
             </div>
